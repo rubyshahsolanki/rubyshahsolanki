@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi ruby 👋
+This is my first Git Repository
 Author:RUBY SHAH SOLANKI
 
 <!--
